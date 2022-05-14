@@ -1,19 +1,23 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.4//EN
-N:;A. Damian Muñoz;;;
-FN:A. Damian Muñoz
-ORG:Smart Business Card;
-EMAIL;type=INTERNET;type=HOME;type=pref:smartcard.ec@gmail.com
-TEL;type=CELL;type=VOICE;type=pref:+593998991773
-item1.ADR;type=pref:;;Internet;Cuenca;;010101;Ecuador
-item1.X-ABLabel:Lugar de venta:
+N:Vicuña;A. Damián;;;
+FN:A. Damián Vicuña
+ORG:Smart Business Card;Atención al Cliente
+TITLE:Encargado
+item1.EMAIL;type=INTERNET;type=pref:damianvicu2018@outlook.com
+item1.X-ABLabel:Personal:
+item2.EMAIL;type=INTERNET:smartcard.ec@gmail.com
+item2.X-ABLabel:Tarjeta SBC:
+item3.TEL;type=pref:0963351850
+item3.X-ABLabel:Personal:
 X-SOCIALPROFILE;type=facebook:https://www.facebook.com/SmartCardEc
 NOTE:Puede solicitar su Smart Card en: https://smartcardec.github.io/SBC/
-item2.URL;type=pref:https://smartcardec.github.io/SBC/
-item2.X-ABLabel:Tarjeta Inteligente:
-item3.URL:https://www.instagram.com/smartcard.ec/
-item3.X-ABLabel:Instagram:
+item4.URL;type=pref:https://smartcardec.github.io/SBC/
+item4.X-ABLabel:Tarjeta Inteligente:
+item5.URL:https://www.instagram.com/smartcard.ec/
+item5.X-ABLabel:Instagram:
+BDAY:2022-05-06
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4QC+RXhpZgAATU0AKgAAAAgABQEaAAUAAAABAAAASgEb
  AAUAAAABAAAAUgEoAAMAAAABAAIAAAITAAMAAAABAAEAAIdpAAQAAAABAAAAWgAAAAAAAABIAA
  AAAQAAAEgAAAABAAeQAAAHAAAABDAyMjGRAQAHAAAABAECAwCgAAAHAAAABDAxMDCgAQADAAAA
