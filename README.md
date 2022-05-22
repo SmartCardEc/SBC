@@ -1,2 +1,0 @@
-# SBC
- smart business card
