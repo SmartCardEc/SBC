@@ -12,19 +12,17 @@ item2.TEL;type=pref:0962716841
 item2.X-ABLabel:Principal:
 item3.TEL:0989313232
 item3.X-ABLabel:Secundario:
-item4.ADR;type=pref:;;;Cuenca;;010105;Azuay\, Ecuador
+item4.ADR;type=pref:;;Ecuador;Cuenca;;010105;Azuay
 item4.X-ABLabel:Dirección:
 item4.X-ABADR:ec
-item5.ADR:;;;Cuenca;;010105;Azuay\, Ecuador
+item5.ADR:;;Ecuador;Cuenca;;010105;Azuay
 item5.X-ABLabel:Dirección:
 item5.X-ABADR:ec
 NOTE:Ropa\, calzado y accesorios
 item6.URL;type=pref:https://www.instagram.com/paca___shop/
 item6.X-ABLabel:Instagram:
-item7.URL:https://www.instagram.com/paca___shop/
-item7.X-ABLabel:Instagram:
-item8.URL:http://facebook.com/PACA-SHOP-106213221522147
-item8.X-ABLabel:Facebook:
+item7.URL:http://facebook.com/PACA-SHOP-106213221522147
+item7.X-ABLabel:Facebook:
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAACHCgAwAEAAAAAQAACHAAAAAA/+0AOFBob3Rv
@@ -3634,6 +3632,6 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
  iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
  KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/2Q==
-item9.X-ABDATE;type=pref:2021-11-23
-item9.X-ABLabel:Aniversario:
+item8.X-ABDATE;type=pref:2021-11-23
+item8.X-ABLabel:Aniversario:
 END:VCARD
