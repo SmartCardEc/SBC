@@ -15,9 +15,6 @@ item3.X-ABLabel:Secundario:
 item4.ADR;type=pref:;;Ecuador;Cuenca;;010105;Azuay
 item4.X-ABLabel:Dirección:
 item4.X-ABADR:ec
-item5.ADR:;;Ecuador;Cuenca;;010105;Azuay
-item5.X-ABLabel:Dirección:
-item5.X-ABADR:ec
 NOTE:Ropa\, calzado y accesorios
 item6.URL;type=pref:https://www.instagram.com/paca___shop/
 item6.X-ABLabel:Instagram:
