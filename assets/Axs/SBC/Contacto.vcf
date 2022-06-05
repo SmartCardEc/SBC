@@ -1,26 +1,22 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.4//EN
-N:Heras V;Mateo;;;
-FN:Mateo Heras V
-ORG:Banco del Austro;Atención de Consultas\, Quejas y Reclamos
-TITLE:Trainee
-item1.EMAIL;type=INTERNET;type=pref:wmateohv@hotmail.com
-item1.X-ABLabel:Trabajo
-item2.EMAIL;type=INTERNET:mateoherasv@gmail.com
-item2.X-ABLabel:Respaldo
-TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+593 98-091-5563
+N:Vicuña;Damián;;;
+FN:Damián Vicuña
+ORG:Smart Business Card;Dep. Comercial
+TITLE:Asesor Comercial
+item1.EMAIL;type=INTERNET;type=pref:damianvicu2018@outlook.com
+item1.X-ABLabel:Personal
+item2.EMAIL;type=INTERNET:smartcard.ec@gmail.com
+item2.X-ABLabel:SBC
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+593 96-335-1850
 item3.ADR;type=HOME;type=pref:;;Juan aguilar\nDel morro;Cuenca;;010105;Ecuador
 item3.X-ABADR:ec
-X-SOCIALPROFILE;type=twitter:http://twitter.com/MateoHeras7
-X-SOCIALPROFILE;type=facebook:http://facebook.com/mateoheras7
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/mateoheras
-item4.URL;type=pref:https://mateoheras77.github.io/WEB/
-item4.X-ABLabel:Página Web
-item5.URL:https://www.instagram.com/mateoheras7/
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/SmartCardEc
+item4.URL;type=pref:https://smartcardec.club/
+item4.X-ABLabel:Comprar SBC
+item5.URL:https://www.instagram.com/smartcard.ec/
 item5.X-ABLabel:Instagram
-item6.URL:https://mateoheras77.github.io/WEB/docs/Curriculum%20Vitae.pdf
-item6.X-ABLabel:Curriculum Vitae
 BDAY:1998-12-15
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
