@@ -1,4 +1,6 @@
 const ua = detect.parse(navigator.userAgent)
 const button = document.querySelector('.btn')
 
-console.log(ua.deivce)
+if (ua.device.family === 'iPhone' || ua.device.family === 'iPad') {
+  button.textContent = 'Facebook iOS'
+}
