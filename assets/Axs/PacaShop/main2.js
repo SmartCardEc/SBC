@@ -1,7 +1,7 @@
 const ua = detect.parse(navigator.userAgent)
 
 const buttonFb = document.querySelector('.Facebook')
-const buttonIg = document.querySelector('.Facebook')
+const buttonIg = document.querySelector('.Instagram')
 
 
 if(ua.device!==null){
