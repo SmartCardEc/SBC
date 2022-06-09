@@ -1,5 +1,6 @@
 const ua = detect.parse(navigator.userAgent)
 const buttonFb = document.querySelector('.Facebook')
+const buttonIg = document.querySelector('.Instagram')
 
 if(ua.device!==null){
 
@@ -13,11 +14,11 @@ if(ua.device!==null){
 }
 
 const ua2 = detect.parse(navigator.userAgent)
-const buttonIg = document.querySelector('.Instagram')
+
 
 if(ua2.device!==null){
 
-    if (ua2.device.family === 'chrome' || ua2.device.family === 'firefox' || ua2.device.family === 'opera' || ua2.device.family === 'safari') {
+    if (ua.device.family !== 'iPhone' || ua.device.family !== 'iPad' || ua.device.family == 'Android' ) {
     buttonIg.href = 'https://www.instagram.com/smartcard.ec/'
 }
 }
