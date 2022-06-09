@@ -17,4 +17,3 @@ if(ua.device!==null){
 }
 }
 
-console.log(ua)
