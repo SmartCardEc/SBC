@@ -3,8 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.4//EN
 N:Heras V;Mateo;;;
 FN:Mateo Heras V
-ORG:Banco del Austro;Atención de Consultas\, Quejas y Reclamos
-TITLE:Trainee
+ORG:Smart Business Card
+TITLE:CEO
 item1.EMAIL;type=INTERNET;type=pref:wmateohv@hotmail.com
 item1.X-ABLabel:Trabajo
 item2.EMAIL;type=INTERNET:mateoherasv@gmail.com
@@ -15,12 +15,12 @@ item3.X-ABADR:ec
 X-SOCIALPROFILE;type=twitter:http://twitter.com/MateoHeras7
 X-SOCIALPROFILE;type=facebook:http://facebook.com/mateoheras7
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/mateoheras
-item4.URL;type=pref:https://mateoheras77.github.io/WEB/
-item4.X-ABLabel:Página Web
+item4.URL;type=pref:https://smartcardec.club/
+item4.X-ABLabel:ADQUIRIR Smart Card
 item5.URL:https://www.instagram.com/mateoheras7/
 item5.X-ABLabel:Instagram
-item6.URL:https://mateoheras77.github.io/WEB/docs/Curriculum%20Vitae.pdf
-item6.X-ABLabel:Curriculum Vitae
+item6.URL:https://mateoheras77.github.io/WEB/
+item6.X-ABLabel:Página Web
 BDAY:1998-12-15
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
