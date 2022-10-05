@@ -7,8 +7,8 @@ ORG:Duragas Abastible;
 TITLE:Gerente General
 item1.EMAIL;type=INTERNET;type=pref:jasolorzanoa@duragas.com.ec
 item1.X-ABLabel:Empresarial
-TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+593 99-991-9946
-item3.ADR;type=HOME;type=pref:;;Km 7.5 Vía a la Costa, Sector El Salitral;Guayaquil;;;Ecuador
+TEL;type=Celular;type=CELL;type=VOICE;type=pref:+593 99-991-9946
+item3.ADR;type=Dirección;type=pref:;;Km 7.5 Vía a la Costa, Sector El Salitral;Guayaquil;;;Ecuador
 item3.X-ABADR:ec
 item4.URL;type=pref:www.duragas.com.ec
 item4.X-ABLabel:Web
