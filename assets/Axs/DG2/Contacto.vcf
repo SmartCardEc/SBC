@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.4//EN
-N:Solórzano Á.;Jaime ;;;
-FN:Jaime Solórzano Á.
+N:Cabezas D.;Carlos Alberto ;;;
+FN:Carlos Alberto Cabezas D.
 ORG:Duragas Abastible;
-TITLE:Gerente General
-item1.EMAIL;type=INTERNET;type=pref:jasolorzanoa@duragas.com.ec
+TITLE:Gerente Legal
+item1.EMAIL;type=INTERNET;type=pref:carlos.cabezas@duragas.com.ec
 item1.X-ABLabel:Empresarial
-TEL;type=Telefono;type=CELL;type=VOICE;type=pref:+593 99-991-9946
+TEL;type=Telefono;type=CELL;type=VOICE;type=pref:+593 96-992-2421
 item3.ADR;type=Dirección;type=pref:;;Km 7.5 Vía a la Costa, Sector El Salitral;Guayaquil;;;Ecuador
 item3.X-ABADR:ec
 item4.URL;type=pref:www.duragas.com.ec
