@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 12.4//EN
-N:Solórzano Á.;Jaime ;;;
-FN:Jaime Solórzano Á.
+N:Quintero M.;Ariana ;;;
+FN:Ariana Quintero M.
 ORG:Duragas Abastible;
-TITLE:Gerente General
-item1.EMAIL;type=INTERNET;type=pref:jasolorzanoa@duragas.com.ec
+TITLE:Analista de Marketing
+item1.EMAIL;type=INTERNET;type=pref:arianna.quitero@duragas.com.ec
 item1.X-ABLabel:Empresarial
-TEL;type=Telefono;type=CELL;type=VOICE;type=pref:+593 98-332-3445
+TEL;type=Telefono;type=CELL;type=VOICE;type=pref:+593 99-979-3046
 item3.ADR;type=Dirección;type=pref:;;Km 7.5 Vía a la Costa, Sector El Salitral;Guayaquil;;;Ecuador
 item3.X-ABADR:ec
 item4.URL;type=pref:www.duragas.com.ec
